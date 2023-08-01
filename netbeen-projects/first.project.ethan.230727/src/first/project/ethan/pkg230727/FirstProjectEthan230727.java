@@ -4,16 +4,14 @@
  */
 package first.project.ethan.pkg230727;
 
-
 public class FirstProjectEthan230727
 {
 
-   
     public static void main(String[] args)
     {
         int x;
-        x=1;
-        System.out.println("hello world "+x);
+        x = 1;
+        System.out.println("hello world " + x);
     }
 
 }
