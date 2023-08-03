@@ -1,8 +1,6 @@
 
 package exercise.pkg11.output.pkg1.to.n.pkg230731;
 
-import exercise.pkg12.output.to.a.file.ethan.pkg230801.Keyboard;
-
 
 public class Exercise11Output1ToN230731
 {
@@ -30,7 +28,7 @@ public class Exercise11Output1ToN230731
          while (n < x) 
              {
              System.out.println("Loop number: " + n);
-              n++; // Increment count by 1 in each iteration
+              n++; 
              }
              System.out.println("your number is: " +x +" ,The count is: " +n);
              }
